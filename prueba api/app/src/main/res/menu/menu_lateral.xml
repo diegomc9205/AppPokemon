@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/combatFragment"
+        android:icon="@drawable/ballp"
+        android:title="Combate" />
+    <item
+        android:id="@+id/PrimerFragment"
+        android:icon="@drawable/icon"
+        android:title="Información" />
+</menu>
